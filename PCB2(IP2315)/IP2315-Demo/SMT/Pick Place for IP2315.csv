@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+D:\Masterpiece\ZT200-Series\ZT201-Battery_Charging_Board\PCB2(IP2315)\IP2315-Demo\Project Outputs for IP2315-Demo\Pick Place for IP2315.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/07/24
+Time:       15:09
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P1","VREF_SEL","TopLayer","XH-2P-2.5","2845.787","3610.000","180","Header, 2-Pin"
+"USB1","TYPE-C 16PIN 2MD(073)","TopLayer","TYPE-C-16PIN-2MD-073","1790.000","3170.001","270",""
+"U1","IP2315","TopLayer","QFN-32_L5.0-W5.0-P0.50-BL-EP3.4","2355.000","3260.000","90",""
+"SW1","DSHP04TS-S","TopLayer","SW-SMD_8P-L6.7-W5.4-P1.27-LS8.5","2825.000","3175.000","270",""
+"R8","0R","TopLayer","R0603","1798.352","3647.350","360","500mA"
+"R7","0R","TopLayer","R0603","2600.000","3135.000","90","500mA"
+"R6","0R","TopLayer","R0603","2770.000","3375.000","180","500mA"
+"R5","0R","TopLayer","R0603","1800.913","3439.350","360","500mA"
+"R4","0R","TopLayer","R0603","2335.000","3090.000","360","500mA"
+"R3","0R","TopLayer","R0603","2900.000","3480.000","180","Resistor"
+"R2","0R","TopLayer","R0603","2900.000","3420.000","180","Resistor"
+"R1","0R","TopLayer","R0603","2900.000","3360.000","180","500mA"
+"L1","2.2uH","TopLayer","IND-SMD_L4.4-W4.2","2365.000","3530.000","90","C167206"
+"D4","Green","TopLayer","LED0603-RD_RED","1794.712","3714.741","180",""
+"D3","SS34","TopLayer","SMA_L4.3-W2.5-LS5.0-RD","2605.000","3470.000","180","肖特基二极管"
+"D2","Green","TopLayer","LED0603-RD_RED","1795.869","3582.576","180",""
+"D1","Green","TopLayer","LED0603-RD_RED","1797.214","3509.587","360",""
+"C8","Cap","TopLayer","0805C","2565.000","3654.840","90","Capacitor"
+"C7","Cap","BottomLayer","0805C","2255.000","3365.000","180","Capacitor"
+"C6","Cap","TopLayer","C0603","2225.000","3450.000","90","Capacitor"
+"C5","Cap","TopLayer","CAP-SMD_BD6.3-L6.6-W6.6-LS7.4-FD","2020.000","3515.000","90","Capacitor"
+"C4","Cap","TopLayer","0805C","2070.000","3200.000","90","Capacitor"
+"C3","Cap","TopLayer","C0603","2205.000","3110.000","180","Capacitor"
+"C2","Cap","BottomLayer","0805C","2460.000","3365.000","180","Capacitor"
+"C1","Cap","BottomLayer","0805C","2460.000","3250.000","180","Capacitor"

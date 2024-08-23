@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Masterpiece\ZT200-Series\ZT201-Battery_Charging_Board\PCB2(IP2315)\IP2315-Demo\IP2315.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ip2315-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ip2315-slotholes.txt|DrillLayers=gtl,gbl
